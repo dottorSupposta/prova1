@@ -1,2 +1,8 @@
 # prova1
 La mia prima repository
+
+## esempio di sottotitolo
+
+*Corsivo* e sempre _corsivo_
+**Grassetto**__grassetto__
+**Grassetto e anche _corsivo_**
